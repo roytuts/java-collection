@@ -1,0 +1,1 @@
+Please follow the tutorial https://roytuts.com/java-foreach-example-using-lambda-expression/
