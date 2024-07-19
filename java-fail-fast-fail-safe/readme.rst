@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/fail-fast-vs-fail-safe-in-java/
+Please follow the tutorial https://roytuts.com/fail-fast-vs-fail-safe-in-java/
